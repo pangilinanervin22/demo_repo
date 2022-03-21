@@ -5,6 +5,5 @@ console.log("Hello World");
 // fourth Commit
 // End line
 
-//add new line from github
 //add new line from local git
 //local and wsl push test
