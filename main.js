@@ -7,3 +7,5 @@ console.log("Hello World");
 
 //add new line from local git
 //local and wsl push test
+
+console.log(process.platform);
